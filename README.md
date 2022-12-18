@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=tZMFlxCzXJQ
 코틀린 https://www.youtube.com/watch?v=8RIsukgeUVw&list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN
 
 카카오 세 백엔드 https://if.kakao.com/session?f.2gB2OPT7YO.GgWcMRm0cNSS=be&t.bab36uRci8=0
+
+카카오 
+redis / docker swaer - 꼭 참고 할 것
+https://if.kakao.com/2022/session/26
